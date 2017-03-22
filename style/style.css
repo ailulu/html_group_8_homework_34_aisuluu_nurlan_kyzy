@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-right {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /*hover::border-bottom*/
+}
+.menu a {
+    text-decoration: none;
+    margin: 15px;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.mountain,
+.ocean {
+    width: 100%;
+}
+
+.logoblock {
+    background: #f8f9fa;
+    padding: 54px 0;
+}
+.title {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 100px 0 92px;
+}
+.paragraph {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 33px;
+    color: #cacaca;
+    background: url("../images/quotes.png") no-repeat;
+    padding: 25px 0;
+}
+.link {
+    font-size: 16px;
+    font-weight: bold;
+    color: #36aeea;
+}
+.link a {
+    text-decoration: none;
+}
+.profession {
+    color: #36aeea;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.clientsphoto {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
